@@ -1,7 +1,3 @@
-In first File
-#Assignment1
-The above HTML form is part of a "Book a Service" section on a webpage. It allows users to enter their name, email, and phone number, and then submit this information using a submit button. The layout is vertical (column format), making it easy to read and fill out.
+This project is a basic website developed to gain practical experience with core HTML concepts. It demonstrates the use of essential HTML elements such as tables, images, hyperlinks, and layout alignments. The goal of this project was to understand how web pages are structured and how different components come together to form a complete webpage.
 
-Each field is marked as required, ensuring the user must fill in all the details before submitting. This form is written in pure HTML without any styling, making it simple, clean, and compatible across all browsers.
-
-The main purpose of this form is to collect customer information for booking home services.
+Working on this project helped me build a strong foundation in web development and improved my confidence in creating structured and well-organized web pages from scratch. It also served as a starting point for exploring more advanced front-end technologies.
