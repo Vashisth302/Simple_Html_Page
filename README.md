@@ -5,7 +5,7 @@ Working on this project helped me build a strong foundation in web development a
 
 ---
 
-## LIVE DEMO: basicweb1.vercel.app
+## LIVE DEMO: [basicweb1.vercel.app](https://vercel.com/vashisth302s-projects/basic_web1)
 
 ## 👨‍💻 Author
   
